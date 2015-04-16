@@ -4,4 +4,6 @@ Hesaplamalı bilime giriş kitabında kullanılan tüm sayfaları burada bulabil
 
 İlker Birbil ve Kaan Öztürk
 
+Nisan, 2015
+
 
