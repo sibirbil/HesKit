@@ -12,8 +12,8 @@ Nisan, 2015
   1. Yapısal programlama komutları (if, while, for)
   1. fonksiyon tanımlama
   1. kütüphane çağırma
-  1. Temel veri yapıları: Dizeler, çokuzlar, listeler, sözlükler. (1.taslak hazır)
   1. dosyadan veri okuma
+  1. Temel veri yapıları: Dizeler, çokuzlar, listeler, sözlükler. (1.taslak hazır)
   2. Uygulama 1
   3. Uygulama 2
 1. Grafik çizme
@@ -83,4 +83,4 @@ Nisan, 2015
   1. Basit sarkacın periyodu (eliptik integral)
   1. Elektrik yüklü bir çubuğun çevresindeki eşpotansiyel eğrileri
   1. Katlı integraller
-  1. Monte Carlo yöntemiyle integral almak.
+  1. Monte Carlo yöntemiyle integral almak
